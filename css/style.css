@@ -276,11 +276,7 @@ align-items: center;
 .team_section_style .conteiner .team_block .social :not(:last-child){
   margin-right: 10px;
 }
-/* .team_section_style .conteiner .team_block .social li:hover,
-.team_section_style .conteiner .team_block .social li:focus {
-  background: var(--petty-color);
-  stroke: var(--other-text-ff #ffffff);
-} */
+
 
 
 .team_block .team_block_item{
