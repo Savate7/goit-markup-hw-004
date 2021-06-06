@@ -13,7 +13,7 @@ Use a better box model (opinionated).
 *::before,
 *::after{
 	box-sizing: border-box;
-}
+	}
 .card {margin: 0;}
 
 
@@ -27,6 +27,7 @@ html {
 
 
 body {
+	width: 1600px;
 	margin: 0; /* 1 */
 	font-family: "Roboto";
 		
